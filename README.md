@@ -6,20 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### brute force
 
@@ -45,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
 ### math
