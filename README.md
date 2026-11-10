@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
@@ -15,6 +15,7 @@
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -39,6 +40,12 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Muhammad-Ahmad-cyber006/THE-CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
 ### math
 
